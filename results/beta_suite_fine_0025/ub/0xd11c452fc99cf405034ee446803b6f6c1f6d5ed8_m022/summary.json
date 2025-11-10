@@ -1,0 +1,10 @@
+{
+  "workflow": "beta_suite",
+  "mode": "UB",
+  "shock_asset": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
+  "shock_magnitude": -0.225,
+  "tvl_initial": 105095028.16317873,
+  "tvl_final": 103607648.47997688,
+  "total_liquidations": 16,
+  "total_liquidated_value_usd": 1487103.832985538
+}

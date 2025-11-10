@@ -1,0 +1,12 @@
+{
+  "workflow": "beta_suite",
+  "mode": "Agent",
+  "shock_asset": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+  "shock_magnitude": -0.075,
+  "tvl_initial": 114418189.16746798,
+  "tvl_final": 114418189.16746798,
+  "total_liquidations": 1,
+  "total_liquidated_value_usd": 465.1889816469497,
+  "final_bad_debt_usd": 9.16009756784763,
+  "liquidation_efficiency": 0.017517439832206997
+}

@@ -1,0 +1,111 @@
+{
+  "efficiency_bounds": {
+    "count_out_of_bounds": 0
+  },
+  "tvl_direction": {
+    "violations": 0
+  },
+  "monotonic_liquidations": {
+    "assets_checked": 46,
+    "violations": 23,
+    "violating_assets": [
+      {
+        "asset": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+        "mode": "UB"
+      },
+      {
+        "asset": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+        "mode": "UB"
+      },
+      {
+        "asset": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+        "mode": "UB"
+      },
+      {
+        "asset": "0x8236a87084f8b84306f72007f36f2618a5634494",
+        "mode": "UB"
+      },
+      {
+        "asset": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
+        "mode": "UB"
+      },
+      {
+        "asset": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+        "mode": "UB"
+      },
+      {
+        "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "mode": "UB"
+      },
+      {
+        "asset": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+        "mode": "UB"
+      },
+      {
+        "asset": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+        "mode": "UB"
+      },
+      {
+        "asset": "0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8",
+        "mode": "UB"
+      },
+      {
+        "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+        "mode": "UB"
+      },
+      {
+        "asset": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0x8292bb45bf1ee4d140127049757c2e0ff06317ed",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0xc139190f447e929f090edeb554d95abb8b18ac1c",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "mode": "Agent"
+      },
+      {
+        "asset": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+        "mode": "Agent"
+      }
+    ]
+  },
+  "ub_event_sums": {
+    "scenarios_checked": 115,
+    "mismatches": 0
+  },
+  "notes": "Thresholds: 1% tolerance on UB event sum; efficiency clamped earlier in pipeline."
+}
