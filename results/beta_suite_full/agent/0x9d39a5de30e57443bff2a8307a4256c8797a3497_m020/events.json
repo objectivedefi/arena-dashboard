@@ -1,0 +1,24 @@
+[
+  {
+    "user_id": "0xC85762a27fa0Bd4233639236067ce3eB726a87de",
+    "liquidated_value_usd_env": 65651.60651881034,
+    "bad_debt_usd_env": 62587.22123454972,
+    "collateral_reserves": {
+      "0xA28C23a459fF8773EB4dBe0e7250d93F79F1Fe2B": 15.239065767893772
+    },
+    "debt_reserves": {
+      "0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1": 13.549500711682597
+    }
+  },
+  {
+    "user_id": "0xcaBE7ddB088E47bf4291B42afFB8fa261b75500B",
+    "liquidated_value_usd_env": 363.7766977931532,
+    "bad_debt_usd_env": 356.0735699338108,
+    "collateral_reserves": {
+      "0xD8b27CF359b7D15710a5BE299AF6e7Bf904984C2": 0.10085905526525683
+    },
+    "debt_reserves": {
+      "0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1": 0.07708632839200444
+    }
+  }
+]

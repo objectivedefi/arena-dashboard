@@ -1,0 +1,123 @@
+[
+  {
+    "user_id": "0x2d9779000331FbD798E4446E1AAa24259D0f58d5",
+    "liquidated_value_usd_env": 1408.4537908352497,
+    "bad_debt_usd_env": 209.19129700142216,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 1608.282947
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 1246.979762945241
+    }
+  },
+  {
+    "user_id": "0x50CE06aB2404C72FbD57620EA8aa0E282065A833",
+    "liquidated_value_usd_env": 5093.503675331999,
+    "bad_debt_usd_env": 416.1291932263438,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 5816.161776
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 4651.510374643988
+    }
+  },
+  {
+    "user_id": "0x62777b535D76A20dF2f42b8B7F1ef70d97BF95D4",
+    "liquidated_value_usd_env": 1035424.2759942666,
+    "bad_debt_usd_env": 252964.9342464554,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 1182328.605189
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 900368.9356471885
+    }
+  },
+  {
+    "user_id": "0x6Df23871e9B551d1F905edBd7bed4Efe0d74a8f7",
+    "liquidated_value_usd_env": 49201.30431699274,
+    "bad_debt_usd_env": 11801.457214041398,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 56181.906157
+    },
+    "debt_reserves": {
+      "0x328646cdfBaD730432620d845B8F5A2f7D786C01": 42911.0169606468
+    }
+  },
+  {
+    "user_id": "0x9b4933aF6292f03255c0DfD09b12731942510498",
+    "liquidated_value_usd_env": 2995815.390563076,
+    "bad_debt_usd_env": 625615.0473196739,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 3420856.854768
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 2605056.8613591967
+    }
+  },
+  {
+    "user_id": "0xf8DEe9cB3E72446d9CC9429A22e893f8feb2A9bd",
+    "liquidated_value_usd_env": 453.1396754125835,
+    "bad_debt_usd_env": 4.794317323763969,
+    "collateral_reserves": {
+      "0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1": 0.10123079734604144
+    },
+    "debt_reserves": {
+      "0xD8b27CF359b7D15710a5BE299AF6e7Bf904984C2": 0.12120621280625125
+    }
+  },
+  {
+    "user_id": "0x195bF4305dCEF296735B4Fe321351c2221EeDf8f",
+    "liquidated_value_usd_env": 1321.7785350607774,
+    "bad_debt_usd_env": 5.489470612307517,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 1321.7785350607774
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 1286.3228199775237
+    }
+  },
+  {
+    "user_id": "0x63b68c03a554e6b706cd61797D61afb0B66488E1",
+    "liquidated_value_usd_env": 12.817424982923928,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 12.817424982923928
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 12.807635434942124
+    }
+  },
+  {
+    "user_id": "0x70518930E893822eE217D54c9C5a1d2e9689c05a",
+    "liquidated_value_usd_env": 0.8421419642652799,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 0.8421419642652799
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 0.8340272906959971
+    }
+  },
+  {
+    "user_id": "0x8e67dd5405FD2840C60CFeF0B405FC6EdC1C0CCE",
+    "liquidated_value_usd_env": 209.48358868405612,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 209.48358868405612
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 207.80541230757794
+    }
+  },
+  {
+    "user_id": "0xA85Fc0A86B1c5034ff8F651E8Ee22F7cFf6bAaBA",
+    "liquidated_value_usd_env": 9.770434086959783,
+    "bad_debt_usd_env": 0.042837535498605646,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 9.770434086959783
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 9.507251492074078
+    }
+  }
+]

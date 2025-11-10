@@ -1,0 +1,178 @@
+[
+  {
+    "user_id": "0x2d9779000331FbD798E4446E1AAa24259D0f58d5",
+    "liquidated_value_usd_env": 1226.7178178242498,
+    "bad_debt_usd_env": 389.45991401253275,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 1608.282947
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 1066.7111459341304
+    }
+  },
+  {
+    "user_id": "0x3EEe3Ecb00AAf1806B0b96f71A98CCBEf647Aaf5",
+    "liquidated_value_usd_env": 5335.965084727469,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1": 1.2347965112146377
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 5274.768358140052
+    }
+  },
+  {
+    "user_id": "0x3Eee3EcB00aaf1806b0B96F71a98CcBEF647aAF6",
+    "liquidated_value_usd_env": 11202.87493162076,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1": 2.5924590325249035
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 11109.297784578695
+    }
+  },
+  {
+    "user_id": "0x50CE06aB2404C72FbD57620EA8aa0E282065A833",
+    "liquidated_value_usd_env": 4436.277394643999,
+    "bad_debt_usd_env": 1209.0767487136643,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 5816.161776
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 3858.404197921323
+    }
+  },
+  {
+    "user_id": "0x62777b535D76A20dF2f42b8B7F1ef70d97BF95D4",
+    "liquidated_value_usd_env": 901821.1436079097,
+    "bad_debt_usd_env": 369128.6788553971,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 1182328.605189
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 784192.2987894868
+    }
+  },
+  {
+    "user_id": "0x6Df23871e9B551d1F905edBd7bed4Efe0d74a8f7",
+    "liquidated_value_usd_env": 42852.74892125175,
+    "bad_debt_usd_env": 17321.940166859655,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 56181.906157
+    },
+    "debt_reserves": {
+      "0x328646cdfBaD730432620d845B8F5A2f7D786C01": 37374.11154636979
+    }
+  },
+  {
+    "user_id": "0x9b4933aF6292f03255c0DfD09b12731942510498",
+    "liquidated_value_usd_env": 2609258.565974292,
+    "bad_debt_usd_env": 938072.776063906,
+    "collateral_reserves": {
+      "0xee944C7Dd107617550EC11AFCF652e14E7670A37": 3420856.854768
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 2268920.4921515584
+    }
+  },
+  {
+    "user_id": "0xaD744e7B3ae782b2c6DD6c316332d60ac33D8Db2",
+    "liquidated_value_usd_env": 737059.8481088364,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0xD8b27CF359b7D15710a5BE299AF6e7Bf904984C2": 211.9472405739303
+    },
+    "debt_reserves": {
+      "0xA28C23a459fF8773EB4dBe0e7250d93F79F1Fe2B": 165.6791472506379
+    }
+  },
+  {
+    "user_id": "0xf8DEe9cB3E72446d9CC9429A22e893f8feb2A9bd",
+    "liquidated_value_usd_env": 436.62141543952816,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1": 0.10103862974093328
+    },
+    "debt_reserves": {
+      "0xD8b27CF359b7D15710a5BE299AF6e7Bf904984C2": 0.12252843413068382
+    }
+  },
+  {
+    "user_id": "0x0b184c192f370C1C5D50eF49dA167Cf16e3d9339",
+    "liquidated_value_usd_env": 0.08861653007912736,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 0.08861653007912736
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 0.08685437989320809
+    }
+  },
+  {
+    "user_id": "0x195bF4305dCEF296735B4Fe321351c2221EeDf8f",
+    "liquidated_value_usd_env": 1284.6080791498246,
+    "bad_debt_usd_env": 73.9140724800411,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 1284.6080791498246
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 1217.8141976376019
+    }
+  },
+  {
+    "user_id": "0x63b68c03a554e6b706cd61797D61afb0B66488E1",
+    "liquidated_value_usd_env": 13.087343552652468,
+    "bad_debt_usd_env": 0.08588513090879661,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 13.087343552652468
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 12.720975639159214
+    }
+  },
+  {
+    "user_id": "0x70518930E893822eE217D54c9C5a1d2e9689c05a",
+    "liquidated_value_usd_env": 0.8445923690648788,
+    "bad_debt_usd_env": 0.019919878736271032,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 0.8445923690648788
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 0.8140540952345074
+    }
+  },
+  {
+    "user_id": "0x8e67dd5405FD2840C60CFeF0B405FC6EdC1C0CCE",
+    "liquidated_value_usd_env": 210.78937917334937,
+    "bad_debt_usd_env": 4.30923012379669,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 210.78937917334937
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 203.48302838078428
+    }
+  },
+  {
+    "user_id": "0xA85Fc0A86B1c5034ff8F651E8Ee22F7cFf6bAaBA",
+    "liquidated_value_usd_env": 9.495674375081492,
+    "bad_debt_usd_env": 0.5484626980040548,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 9.495674375081492
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 9.000957466024687
+    }
+  },
+  {
+    "user_id": "0xb01e236Ce8f8299899A9c9142DC5F59a3B805833",
+    "liquidated_value_usd_env": 0.07554253554373291,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 0.07554253554373291
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 0.07523132491184706
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "scenarios": 184,
+  "assets": 23,
+  "shocks": [
+    -0.4,
+    -0.35,
+    -0.3,
+    -0.25,
+    -0.2,
+    -0.15,
+    -0.1,
+    -0.05
+  ],
+  "anomalies": {
+    "eff_out_of_bounds": 0,
+    "nan_rows": 0
+  },
+  "notes": "Efficiency clamped to [0,1]; basis: UB=env, Agent=oracle",
+  "runs_rows": 368,
+  "ub_event_rows": 3032
+}

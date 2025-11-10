@@ -1,0 +1,42 @@
+[
+  {
+    "asset": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "shock": -0.05,
+    "ub_liquidated_usd": 468.7858565984972,
+    "ub_liqs": 2,
+    "ag_liquidated_usd": 473.9169756946013,
+    "ag_liqs": 2,
+    "ag_bad_debt": 1.6797795244009772,
+    "ag_eff": 7.206194252023934
+  },
+  {
+    "asset": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "shock": -0.1,
+    "ub_liquidated_usd": 473.09670894592307,
+    "ub_liqs": 2,
+    "ag_liquidated_usd": 697296.5412738232,
+    "ag_liqs": 9,
+    "ag_bad_debt": 0.0,
+    "ag_eff": 1.0
+  },
+  {
+    "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "shock": -0.05,
+    "ub_liquidated_usd": 474.83556332436757,
+    "ub_liqs": 2,
+    "ag_liquidated_usd": 456.1677219663958,
+    "ag_liqs": 1,
+    "ag_bad_debt": 0.0,
+    "ag_eff": 1.0
+  },
+  {
+    "asset": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "shock": -0.1,
+    "ub_liquidated_usd": 1221732.123587008,
+    "ub_liqs": 3,
+    "ag_liquidated_usd": 748379.5057019416,
+    "ag_liqs": 7,
+    "ag_bad_debt": 0.0,
+    "ag_eff": 1.0
+  }
+]

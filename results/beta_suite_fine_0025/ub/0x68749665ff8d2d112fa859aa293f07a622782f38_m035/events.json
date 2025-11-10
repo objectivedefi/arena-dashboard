@@ -1,0 +1,68 @@
+[
+  {
+    "user_id": "0x80644DCc31a961b3F93d4A9593491648B1f77346",
+    "liquidated_value_usd_env": 116285.4787950038,
+    "bad_debt_usd_env": 10319.114530544814,
+    "collateral_reserves": {
+      "0x5A96128c18018a2cEf539f46Bbed037DAD3cAAe8": 45.302209
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 101117.8076478294
+    }
+  },
+  {
+    "user_id": "0x8E8745Acd6FbE3E70afc96042C7F3ec84b1f0e9D",
+    "liquidated_value_usd_env": 3546.68476321098,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0x5A96128c18018a2cEf539f46Bbed037DAD3cAAe8": 1.3817086713238231
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 3522.863811650557
+    }
+  },
+  {
+    "user_id": "0xa3E7d06b5B0178B43B664ec4B53c4B4A1C107698",
+    "liquidated_value_usd_env": 1326.7757175046177,
+    "bad_debt_usd_env": 207.40189830872066,
+    "collateral_reserves": {
+      "0x5A96128c18018a2cEf539f46Bbed037DAD3cAAe8": 0.516882
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 1153.7180152214069
+    }
+  },
+  {
+    "user_id": "0xf5E962C4DF3C870266aeaB048335184ee0d9aD67",
+    "liquidated_value_usd_env": 3708.3889803814195,
+    "bad_debt_usd_env": 420.1076474469221,
+    "collateral_reserves": {
+      "0x5A96128c18018a2cEf539f46Bbed037DAD3cAAe8": 1.444705
+    },
+    "debt_reserves": {
+      "0x313603FA690301b0CaeEf8069c065862f9162162": 3224.6860698968867
+    }
+  },
+  {
+    "user_id": "0xf791Da446d04282f921f38fBf954ad5Caee899a2",
+    "liquidated_value_usd_env": 54183.09955508548,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0x5A96128c18018a2cEf539f46Bbed037DAD3cAAe8": 21.10851781106268
+    },
+    "debt_reserves": {
+      "0x797DD80692c3b2dAdabCe8e30C07fDE5307D48a9": 50178.73430100358
+    }
+  },
+  {
+    "user_id": "0xf8DEe9cB3E72446d9CC9429A22e893f8feb2A9bd",
+    "liquidated_value_usd_env": 461.4119073899512,
+    "bad_debt_usd_env": 0.0,
+    "collateral_reserves": {
+      "0xbC4B4AC47582c3E38Ce5940B80Da65401F4628f1": 0.09975714069822311
+    },
+    "debt_reserves": {
+      "0xD8b27CF359b7D15710a5BE299AF6e7Bf904984C2": 0.12252843413068382
+    }
+  }
+]

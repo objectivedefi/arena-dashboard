@@ -1,0 +1,14 @@
+{
+  "scenarios": 115,
+  "assets": 23,
+  "shocks": [
+    -0.4,
+    -0.3,
+    -0.2,
+    -0.1,
+    -0.05
+  ],
+  "notes": "Agent efficiency clamped to [0,1]; UB at env prices",
+  "runs_rows": 230,
+  "ub_event_rows": 1783
+}
